@@ -51,4 +51,4 @@ vercel deploy
 
 ## License
 
-[MIT](/license)
+[MIT](/LICENSE)
